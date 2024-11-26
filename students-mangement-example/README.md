@@ -77,20 +77,6 @@ findEntryById(4);
    node studentsManagement.js
    ```
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request.
-
-### Guidelines
-
-- Follow the standard JavaScript naming conventions.
-- Include meaningful commit messages.
-- Ensure proper error handling and input validation in your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
 ## Acknowledgments
 
 This project is a part of the `JSGym` repository aimed at improving JavaScript coding practices and understanding of core concepts.
